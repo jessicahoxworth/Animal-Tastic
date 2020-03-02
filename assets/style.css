@@ -1,0 +1,41 @@
+body {
+    font-family: 'Arial';
+    background: #919196; 
+    letter-spacing: 2px;
+}
+
+
+.title {
+    font-family: 'Arial';
+    font-weight: bold;
+    letter-spacing: 5px;
+    color: rgb(0, 0, 0);
+}
+
+h6 {
+    color: white;
+}
+
+.card {
+    margin-bottom: 50px;
+}
+
+#searchBtn {
+    margin: 3px;
+    color: white;
+    background-color: black;
+    border-color: black;
+    border-radius: 5px;
+    width: 100%;
+    display:block;
+    position:relative;
+    text-align: center;
+   
+}
+
+#animalButtons {
+    width: 100%;
+    display:block;
+    position:relative;
+    text-align: center;
+}
